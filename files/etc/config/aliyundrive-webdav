@@ -8,7 +8,7 @@ config server
 	option no_trash '0'
 	option read_only '0'
 	option enable '1'
-	option refresh_token '555b739676d84393b1babf2fde07bf17'
+	option refresh_token 'b69c4b1229eb486bbe6bc16aea2c89e2'
 	option host '192.168.1.1'
 	option port '7890'
 	option auth_user 'root'
